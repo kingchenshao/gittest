@@ -6,5 +6,6 @@ public class test {
         System.out.println("jiuzhe");
         System.out.println("wqeqwe");
         System.out.println("master");
+        System.out.println("hot");
     }
 }
