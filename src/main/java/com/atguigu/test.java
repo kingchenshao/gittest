@@ -5,5 +5,6 @@ public class test {
         System.out.println("就这!");
         System.out.println("jiuzhe");
         System.out.println("wqeqwe");
+        System.out.println("hot");
     }
 }
